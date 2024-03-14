@@ -1,0 +1,8 @@
+Este es un texto de prueba para el estudio1 de python
+Aquí podemos escribir cualquier cosa que se requiera para el estudio
+por ejemplo, podemos escribir un texto bíblico arbitrario
+para ello, tomaré la biblia en una página aleatoria y la escribiré a continuación:
+"en las manos del SEÑOR el corazón del rey es como un río;
+sigue el curso que el señor le ha trazado. A cada uno le parece correcto su proceder,
+pero el SEÑOR juzga los corazones. Practicar la justicia y el derecho lo prefiere el SEÑOR
+a los sacrificios."-Provervios 21:1-3
